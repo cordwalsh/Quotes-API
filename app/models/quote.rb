@@ -1,3 +1,3 @@
-class Quote
-  @quote = Quote.create()
+class Quote < ApplicationRecord
+  
 end
